@@ -48,12 +48,11 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Image Denoising via CNNs: An Adversarial Approach (Arxiv2017), Nithish Divakar, R. Venkatesh Babu.
  * Unrolled Optimization Deep Priors [[PDF]](https://arxiv.org/pdf/1705.08041.pdf)
    * Unrolled Optimization with Deep Priors (Arxiv2017), Steven Diamond, Vincent Sitzmann, Felix Heide, Gordon Wetzstein.
- * Wider Network [[PDF]](https://arxiv.org/pdf/1707.05414.pdf)
-   * Going Wider with Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
  * Recurrent Inference Machines [[PDF]](https://arxiv.org/pdf/1706.04008.pdf)
    * Recurrent Inference Machines for Solving Inverse Problems, Patrick Putzky, Max Welling.
- * Learning Pixel-Distribution Prior [[PDF]](https://arxiv.org/pdf/1707.09135.pdf)
-   * Learning Pixel-Distribution Prior with Wider Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
+ * Universal Denoising Networks : A Novel CNN Architecture for Image Denoising [[PDF]](http://www.skoltech.ru/app/data/uploads/sites/19/2018/03/UDNet_CVPR2018.pdf) [[Code]] (https://github.com/cig-skoltech/UDNet)
+  * An ELU Network with Total Variation for Image Denoising [[PDF]](http://xueshu.baidu.com/s?wd=paperuri%3A%28a5b496ed506ff0eddae1642b1c3eb3d4%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1708.04317&ie=utf-8&sc_us=3699598872841927394) 
+ 
    
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
